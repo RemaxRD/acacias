@@ -27,7 +27,7 @@ pipeline {
         sh(
           label: "Run agent deploy",
           script: """
-            cd /srv/deployment/remax/stage
+            cd /srv/deployment/remax/prod
             ansible-playbook agent.yml --extra-vars "agent_name=${AGENT_NAME} agent_url=${AGENT_URL}"
           """
         )
