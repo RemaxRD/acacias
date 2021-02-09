@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="34px" viewBox="0 0 22 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>path0_stroke</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-46.4%" y="-21.2%" width="192.9%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.64">
+        <g id="03.00_Detalle-de-propiedad" transform="translate(-36.000000, -317.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Hero" transform="translate(0.000000, 73.000000)">
+                <g id="Arrow" filter="url(#filter-1)" transform="translate(47.000000, 260.000000) scale(-1, 1) rotate(-180.000000) translate(-47.000000, -260.000000) translate(40.000000, 247.000000)">
+                    <path d="M13.7887801,1.23291023 C14.0704066,0.950865126 14.0704066,0.493580021 13.7887801,0.211534914 C13.5071679,-0.0705116379 13.050583,-0.0705116379 12.7689708,0.211534914 L13.7887801,1.23291023 Z M1.01981934,13.0000002 L0.509910391,12.4893169 L0,13.0000002 L0.509910391,13.5106835 L1.01981934,13.0000002 Z M12.7689708,25.7885333 C13.050583,26.0704889 13.5071679,26.0704889 13.7887801,25.7885333 C14.0704066,25.5064333 14.0704066,25.0491222 13.7887801,24.7670222 L12.7689708,25.7885333 Z M12.7689708,0.211534914 L0.509910391,12.4893169 L1.52972829,13.5106835 L13.7887801,1.23291023 L12.7689708,0.211534914 Z M0.509910391,13.5106835 L12.7689708,25.7885333 L13.7887801,24.7670222 L1.52972829,12.4893169 L0.509910391,13.5106835 Z" id="path0_stroke"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

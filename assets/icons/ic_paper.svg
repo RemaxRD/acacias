@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/24/Propiedades/ic_bathroom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.5,16 C8.22385763,16 8,15.7761424 8,15.5 C8,15.2238576 8.22385763,15 8.5,15 L15.5,15 C15.7761424,15 16,15.2238576 16,15.5 C16,15.7761424 15.7761424,16 15.5,16 L8.5,16 Z M8.5,13 C8.22385763,13 8,12.7761424 8,12.5 C8,12.2238576 8.22385763,12 8.5,12 L15.5,12 C15.7761424,12 16,12.2238576 16,12.5 C16,12.7761424 15.7761424,13 15.5,13 L8.5,13 Z M8.5,10 C8.22385763,10 8,9.77614237 8,9.5 C8,9.22385763 8.22385763,9 8.5,9 L10.5,9 C10.7761424,9 11,9.22385763 11,9.5 C11,9.77614237 10.7761424,10 10.5,10 L8.5,10 Z M13.5,4 C13.6326082,4 13.7597852,4.05267842 13.8535534,4.14644661 L18.8535534,9.14644661 C18.9473216,9.2402148 19,9.36739176 19,9.5 L19,19.5 C19,19.7761424 18.7761424,20 18.5,20 L5.5,20 C5.22385763,20 5,19.7761424 5,19.5 L5,4.5 C5,4.22385763 5.22385763,4 5.5,4 L13.5,4 Z M13.2928932,5 L6,5 L6,19 L18,19 L18,9.70710678 L13.2928932,5 Z M14,9 L18.5,9 C18.7761424,9 19,9.22385763 19,9.5 C19,9.77614237 18.7761424,10 18.5,10 L13.5,10 C13.2238576,10 13,9.77614237 13,9.5 L13,4.5 C13,4.22385763 13.2238576,4 13.5,4 C13.7761424,4 14,4.22385763 14,4.5 L14,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.05_Detalle-de-propiedad-configuraciones" transform="translate(-259.000000, -649.000000)">
+            <g id="Group-15" transform="translate(128.000000, 641.000000)">
+                <g id="Buttons" transform="translate(122.000000, 0.000000)">
+                    <g id="Icons/24/ic_copy" transform="translate(4.000000, 4.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#444444" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colors/White" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                            <rect id="color" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
